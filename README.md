@@ -2,7 +2,6 @@
 
 Spotify Rewind is a backup service for Spotify. It allows users to backup a current version of Spotify and then restore that version with a timestamp at a later date
 
-![Intro Image](/home/tucker/Pictures/SpotifyRewind.png)
 
 The app uses Spotify's API to directly interact with your Spotify Playlists. Users must have a Spotify account and use their credentials to login, which are verified with OAuth.
 
