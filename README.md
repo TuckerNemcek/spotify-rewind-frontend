@@ -20,7 +20,7 @@ click Log in to Spotify
 
 Agree to let the Spotify API Access your Spotify. If this is your first time you will have to enter your username and password
 
-![](/home/tucker/Pictures/Screenshot from 2019-08-13 18-08-48.png)
+![](/home/tucker/Pictures/Screenshot%20from%202019-08-13%2018-08-48.png)
 
 
 Select a playlist you wish to backup
