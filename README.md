@@ -20,12 +20,14 @@ click Log in to Spotify
 
 Agree to let the Spotify API Access your Spotify. If this is your first time you will have to enter your username and password
 
-![](/Screenshot%20from%202019-08-13%2018-08-48.png)
+![Screenshot from 2019-08-13 18-08-03](https://user-images.githubusercontent.com/40895874/62986282-09796300-bdf8-11e9-8fc8-0d68d763ab54.png)
 
 
 Select a playlist you wish to backup
 
 If you would like to restore that playlist to spotify click the button to do so.
+
+![Screenshot from 2019-08-13 18-08-48](https://user-images.githubusercontent.com/40895874/62986240-db941e80-bdf7-11e9-8f9b-bddf49a00786.png)
 
 ## Technologies used
 
